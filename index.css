@@ -1,0 +1,27 @@
+.eltd-testimonials.eltd-card .eltd-testimonials-inner .eltd-testimonials-description {
+    background-color: #782a64 !important;
+}
+
+.eltd-testimonials-text {
+    color: #fff !important;
+}
+
+.eltd-testimonials-title {
+    color: #fff !important;
+}
+
+.eltd-testimonials.eltd-card .eltd-testimonials-inner .eltd-testimonials-description:after {
+    border-color: #782a64 transparent transparent !important;
+}
+
+.eltd-call-to-action {
+    background-color: #782a64 !important;
+}
+
+.tp-leftarrow {
+    display: none !important;
+}
+
+.tp-rightarrow {
+    display: none !important;
+}
